@@ -1,0 +1,14 @@
+[
+    {
+        "date": "13-04-2026",
+        "category": "food",
+        "amount": 1500.0,
+        "description": "food at cafe "
+    },
+    {
+        "date": "11-03-2026",
+        "category": "Travel",
+        "amount": 20000.0,
+        "description": "a trip to singapore"
+    }
+]
